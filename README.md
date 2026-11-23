@@ -65,31 +65,11 @@
 
 <h2 align="center">🏅 LeetCode Achievements</h2>
 
-<table align="center">
-<tr>
-<td align="center" width="25%">
-<img src="YOUR_BADGE_IMAGE_1" width="100">
-<br><b>50 Days - 2025</b>
-</td>
+<h3 align="center">🏅 LeetCode Badges</h3>
 
-<td align="center" width="25%">
-<img src="YOUR_BADGE_IMAGE_2" width="100">
-<br><b>50 Days - 2026</b>
-</td>
-</tr>
-
-<tr>
-<td align="center" width="25%">
-<img src="YOUR_BADGE_IMAGE_3" width="100">
-<br><b>100 Days - 2026</b>
-</td>
-
-<td align="center" width="25%">
-<img src="YOUR_BADGE_IMAGE_4" width="100">
-<br><b>200 Days - 2026</b>
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=Narendra_G_S&animated=true" alt="LeetCode Badges"/>
+</p>
 
 ## 🏅 Certifications & Achievements
 
