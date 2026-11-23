@@ -67,7 +67,7 @@
 - 📜 Technical certifications and course completions
 
 <!-- Add certification badge images here -->
-![alt text](download.png)
+![LeetCode](https://leetcode.com/medal/?showImg=0&id=8789104&isLevel=false)
 
 ## 📊 GitHub Statistics
 
