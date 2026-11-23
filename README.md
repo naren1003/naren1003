@@ -59,6 +59,37 @@
 - Maintaining a repository of solutions with explanations and complexity analysis.
 
 <!-- Add your LeetCode stats and badge images here -->
+## 📊 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Narendra_G_S?theme=nord&font=Fira%20Sans%20Condensed&ext=heatmap)
+
+<h2 align="center">🏅 LeetCode Achievements</h2>
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+<img src="YOUR_BADGE_IMAGE_1" width="100">
+<br><b>50 Days - 2025</b>
+</td>
+
+<td align="center" width="25%">
+<img src="YOUR_BADGE_IMAGE_2" width="100">
+<br><b>50 Days - 2026</b>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="25%">
+<img src="YOUR_BADGE_IMAGE_3" width="100">
+<br><b>100 Days - 2026</b>
+</td>
+
+<td align="center" width="25%">
+<img src="YOUR_BADGE_IMAGE_4" width="100">
+<br><b>200 Days - 2026</b>
+</td>
+</tr>
+</table>
 
 ## 🏅 Certifications & Achievements
 
@@ -67,11 +98,6 @@
 - 📜 Technical certifications and course completions
 
 <!-- Add certification badge images here -->
-<h3 align="center">🏅 LeetCode Badges</h3>
-
-<p align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=Narendra_G_S&animated=true" alt="LeetCode Badges"/>
-</p>
 
 ## 📈 GitHub Stats
 
