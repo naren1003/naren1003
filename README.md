@@ -67,6 +67,7 @@
 - 📜 Technical certifications and course completions
 
 <!-- Add certification badge images here -->
+![alt text](download.png)
 
 ## 📊 GitHub Statistics
 
