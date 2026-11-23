@@ -52,7 +52,7 @@
 
 ## 💻 LeetCode
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Visit%20Profile-orange?style=for-the-badge&logo=leetcode)](YOUR_LEETCODE_URL)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Visit%20Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Narendra_G_S/)
 
 - Regularly solving Data Structures and Algorithms problems.
 - Focused on improving problem-solving skills and algorithmic thinking.
