@@ -79,11 +79,12 @@
 
 <h2 align="center">🏆 Certifications</h2>
 
-<p align="center">
-  <img src="./aws-certified-cloud-practitioner.png" width="120"/>
-  <img src="./introduction-to-iot.png" width="120"/>
-  <img src="./networking-basics.png" width="120"/>
-</p>
+<img width="300" height="300" alt="aws-certified-cloud-practitioner" src="https://github.com/user-attachments/assets/c2751c79-1a2b-47d9-bf2e-1e4dd47e001b" />
+<img width="300" height="300" alt="introduction-to-iot" src="https://github.com/user-attachments/assets/4f9cafc5-24dc-4d8a-9e2a-9c6fa44daa6a" />
+<img width="299" height="299" alt="networking-basics" src="https://github.com/user-attachments/assets/3fcce691-fce4-43e0-b2ca-0de831622e27" />
+
+
+
 
 ## 📈 GitHub Stats
 
