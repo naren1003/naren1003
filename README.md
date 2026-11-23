@@ -69,13 +69,13 @@
 <!-- Add certification badge images here -->
 [![LeetCode Badges](https://vercel.app)](https://leetcode.com/u/Narendra_G_S/)
 
-## 📊 GitHub Statistics
+## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naren1003&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naren1003&show_icons=true&theme=nord)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=naren1003&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=naren1003&theme=nord)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naren1003&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naren1003&layout=compact&theme=nord)
 
 ## 🔥 Featured Projects
 
