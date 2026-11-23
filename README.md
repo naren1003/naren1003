@@ -67,7 +67,11 @@
 - 📜 Technical certifications and course completions
 
 <!-- Add certification badge images here -->
-[![LeetCode Badges](https://vercel.app)](https://leetcode.com/u/Narendra_G_S/)
+<h3 align="center">🏅 LeetCode Badges</h3>
+
+<p align="center">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=Narendra_G_S&animated=true" alt="LeetCode Badges"/>
+</p>
 
 ## 📈 GitHub Stats
 
