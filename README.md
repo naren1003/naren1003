@@ -77,7 +77,13 @@
 - 🏅 LeetCode Monthly Badges
 - 📜 Technical certifications and course completions
 
-<!-- Add certification badge images here -->
+<h2 align="center">🏆 Certifications</h2>
+
+<p align="center">
+  <img src="./aws-certified-cloud-practitioner.png" width="120"/>
+  <img src="./introduction-to-iot.png" width="120"/>
+  <img src="./networking-basics.png" width="120"/>
+</p>
 
 ## 📈 GitHub Stats
 
