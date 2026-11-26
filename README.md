@@ -103,7 +103,6 @@ Check out my repositories to explore projects involving:
 
 - Machine Learning & Predictive Analytics
 - Full-Stack Web Development
-- Intelligent Systems & Automation
 - Data Structures & Algorithms
 
 ## 📫 Connect With Me
